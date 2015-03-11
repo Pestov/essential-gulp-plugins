@@ -130,6 +130,8 @@
 
 [gulp-clean](https://github.com/peter-vilja/gulp-clean) and [gulp-copy](https://github.com/klaascuvelier/gulp-copy) - respectively remove and copy sources.
 
+[gulp-replace](https://www.npmjs.com/package/gulp-replace) - Search and replace strings in text files.
+
 [gulp-filesize](https://github.com/Metrime/gulp-filesize) - displays sizes of files in a readable format.
 
 [gulp-util](https://github.com/gulpjs/gulp-util) - utilities for developing Gulp plugins.
