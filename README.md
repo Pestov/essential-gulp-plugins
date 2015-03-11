@@ -135,18 +135,18 @@
 [gulp-util](https://github.com/gulpjs/gulp-util) - utilities for developing Gulp plugins.
 
 ##Compilers
-[gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
-[gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
-[gulp-compass](https://github.com/appleboy/gulp-compass) - SASS with Compass in CSS.
-[gulp-stylus](https://github.com/LearnBoost/stylus) - Stylus in CSS.
-[gulp-coffee](https://github.com/wearefractal/gulp-coffee) - CoffeeScript in JavaScript.
-[gulp-jade](https://github.com/phated/gulp-jade) - Jade in HTML.
-[gulp-handlebars](https://github.com/lazd/gulp-handlebars) - Handlebars templates in JST.
-[gulp-jst](https://github.com/rdmurphy/gulp-jst) - Underscore templates in JST.
-[gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook React's JSX templates in JST.
-[gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - Nunjucks templates in JST. 
-[gulp-dustjs](https://github.com/sindresorhus/gulp-dust) - Dust templates in JST.
-[gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) - AngularJS templates in JST.
+* [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
+* [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
+* [gulp-compass](https://github.com/appleboy/gulp-compass) - SASS with Compass in CSS.
+* [gulp-stylus](https://github.com/LearnBoost/stylus) - Stylus in CSS.
+* [gulp-coffee](https://github.com/wearefractal/gulp-coffee) - CoffeeScript in JavaScript.
+* [gulp-jade](https://github.com/phated/gulp-jade) - Jade in HTML.
+* [gulp-handlebars](https://github.com/lazd/gulp-handlebars) - Handlebars templates in JST.
+* [gulp-jst](https://github.com/rdmurphy/gulp-jst) - Underscore templates in JST.
+* [gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook React's JSX templates in JST.
+* [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - Nunjucks templates in JST. 
+* [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) - Dust templates in JST.
+* [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) - AngularJS templates in JST.
 
 ##Finally
 * [psi](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting.
