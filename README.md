@@ -38,6 +38,8 @@
 
 [gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) - HTML validator.
 
+[gulp-processhtml](https://www.npmjs.com/package/gulp-processhtml) - Process html files at build time to modify them as you wish.
+
 ##JavaScript
 [gulp-autopolyfiller](https://github.com/azproduction/gulp-autopolyfiller) - precise polyfills. This is like Autoprefixer, but for JavaScript polyfills.
 
