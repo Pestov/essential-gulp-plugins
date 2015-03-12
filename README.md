@@ -142,6 +142,7 @@
 * [gulp-compass](https://github.com/appleboy/gulp-compass) - SASS with Compass in CSS.
 * [gulp-stylus](https://github.com/LearnBoost/stylus) - Stylus in CSS.
 * [gulp-coffee](https://github.com/wearefractal/gulp-coffee) - CoffeeScript in JavaScript.
+* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) - TypeScript in JavaScript.
 * [gulp-jade](https://github.com/phated/gulp-jade) - Jade in HTML.
 * [gulp-handlebars](https://github.com/lazd/gulp-handlebars) - Handlebars templates in JST.
 * [gulp-jst](https://github.com/rdmurphy/gulp-jst) - Underscore templates in JST.
