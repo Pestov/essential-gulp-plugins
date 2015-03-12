@@ -106,8 +106,6 @@
 
 [gulp-rev](https://github.com/sindresorhus/gulp-rev) - static file asset revisioning through content hashing.
 
-[gulp-release](https://github.com/pasangsherpa/gulp-release) - allows to manage versions of a project.
-
 [gulp-bump](https://github.com/stevelacy/gulp-bump) - increments versions in package JSON and [gulp-update](https://github.com/tounano/gulp-update), which automatically updates packages.
 
 [gulp-bower-files](https://github.com/ck86/gulp-bower-files) - inject Bower packages.
