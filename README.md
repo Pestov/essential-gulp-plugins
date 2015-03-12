@@ -61,6 +61,8 @@
 
 [gulp-jscpd](https://github.com/yannickcr/gulp-jscpd) — copy/paste detector for programming source code.
 
+[gulp-buddy.js](https://github.com/Semigradsky/gulp-buddy.js) - magic number detection for javascript.
+
 [gulp-jsonlint](https://github.com/rogeriopvl/gulp-jsonlint)  - JSON validator.
 
 [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - JavaScript compressor.
