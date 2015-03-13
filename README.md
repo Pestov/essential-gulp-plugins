@@ -152,6 +152,7 @@
 * [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - Nunjucks templates in JST.
 * [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) - Dust templates in JST.
 * [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) - AngularJS templates in JST.
+* [gulp-riot](https://github.com/e-jigsaw/gulp-riot) - RiotJS templates in JavaScript.
 
 ##Finally
 * [psi](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting.
