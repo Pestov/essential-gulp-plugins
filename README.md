@@ -138,6 +138,8 @@
 
 [gulp-util](https://github.com/gulpjs/gulp-util) - utilities for developing Gulp plugins.
 
+[gulp-plumber](https://github.com/floatdrop/gulp-plumber) - prevents pipe breaking caused by errors from gulp plugins
+
 ##Compilers
 * [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
 * [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
