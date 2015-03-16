@@ -7,7 +7,7 @@
 
 [gulp-email-design](https://github.com/alexshk/gulp-email-design) - a workflow for designing and testing HTML email templates.
 
-[gulp-uncss](https://github.com/addyosmani/gulp-uncss-task) - remove unused CSS from your projects.
+[gulp-uncss](https://github.com/ben-eb/gulp-uncss) - remove unused CSS from your projects.
 
 [gulp-csso](https://github.com/ben-eb/gulp-csso) - very cool CSS minificator. In addition, there are many CSS optimizers and [benchmark tests](http://goalsmashers.github.io/css-minification-benchmark/) ([GitHub](https://github.com/GoalSmashers/css-minification-benchmark)) for them. But recently I saw most powerful [Shorthand](https://github.com/frankmarineau/shorthand) utility without Gulp, which does folowing:
 
