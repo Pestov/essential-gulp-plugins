@@ -112,7 +112,7 @@
 
 [gulp-bump](https://github.com/stevelacy/gulp-bump) - increments versions in package JSON and [gulp-update](https://github.com/tounano/gulp-update), which automatically updates packages.
 
-[gulp-bower-files](https://github.com/ck86/gulp-bower-files) - inject Bower packages.
+[main-bower-files](https://github.com/ck86/main-bower-files) - inject Bower packages.
 
 [gulp-removelogs](https://github.com/hemanth/gulp-removelogs) - remove console logging statements.
 
