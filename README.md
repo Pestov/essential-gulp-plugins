@@ -140,6 +140,8 @@
 
 [gulp-plumber](https://github.com/floatdrop/gulp-plumber) - prevents pipe breaking caused by errors from gulp plugins
 
+[gulp-data](https://github.com/colynb/gulp-data) - Generate a data object from a variety of sources: json, front-matter, database, anything. Compatible with many plugins including `gulp-jade` and `gulp-swig`
+
 ##Compilers
 * [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
 * [gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS/SCSS in СSS.
@@ -155,6 +157,7 @@
 * [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) - Dust templates in JST.
 * [gulp-angular-templatecache](https://github.com/miickel/gulp-angular-templatecache) - AngularJS templates in JST.
 * [gulp-riot](https://github.com/e-jigsaw/gulp-riot) - RiotJS templates in JavaScript.
+* [gulp-swig](https://github.com/colynb/gulp-swig) - Compile swig templates.
 
 ##Finally
 * [psi](https://github.com/addyosmani/psi) - PageSpeed Insights with reporting.
