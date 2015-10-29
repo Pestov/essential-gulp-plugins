@@ -9,7 +9,7 @@
 
 [gulp-uncss](https://github.com/ben-eb/gulp-uncss) - remove unused CSS from your projects.
 
-[gulp-csso](https://github.com/ben-eb/gulp-csso) - very cool CSS minificator. In addition, there are many CSS optimizers and [benchmark tests](http://goalsmashers.github.io/css-minification-benchmark/) ([GitHub](https://github.com/GoalSmashers/css-minification-benchmark)) for them. But recently I saw most powerful [Shorthand](https://github.com/frankmarineau/shorthand) utility without Gulp, which does folowing:
+[gulp-csso](https://github.com/ben-eb/gulp-csso) - very cool CSS minificator. In addition, there are many CSS optimizers and [benchmark tests](http://goalsmashers.github.io/css-minification-benchmark/) ([GitHub](https://github.com/GoalSmashers/css-minification-benchmark)) for them. But recently I saw most powerful [Shorthand](https://github.com/frankmarineau/shorthand) utility and [gulp-shorthand](https://github.com/kevva/gulp-shorthand), which does folowing:
 
 	a {
 		font-family: Arial;
