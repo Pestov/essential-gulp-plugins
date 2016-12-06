@@ -36,9 +36,13 @@
 
 [gulp-csslint](https://www.npmjs.com/package/gulp-csslint) - CSS linter.
 
-[gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) - HTML validator.
+[gulp-htmlhint](https://github.com/bezoerb/gulp-htmlhint) - HTML validator using [htmlhint](https://github.com/yaniswang/HTMLHint)
+
+[gulp-htmllint](https://github.com/yvanavermaet/gulp-htmllint) - HTML validator using [htmllint](https://github.com/htmllint/htmllint/)
 
 [gulp-processhtml](https://www.npmjs.com/package/gulp-processhtml) - Process html files at build time to modify them as you wish.
+
+[gulp-myth](https://github.com/sindresorhus/gulp-myth) - Postprocessor that polyfills CSS
 
 ##JavaScript
 [gulp-autopolyfiller](https://github.com/azproduction/gulp-autopolyfiller) - precise polyfills. This is like Autoprefixer, but for JavaScript polyfills.
@@ -47,7 +51,7 @@
 
 [gulp-jsfmt](https://www.npmjs.com/package/gulp-jsfmt) - for formatting, searching, and rewriting JavaScript.
 
-[gulp-jscs](https://github.com/jscs-dev/gulp-jscs) - for checking JavaScript Code Style.
+[gulp-jscs](https://github.com/jscs-dev/gulp-jscs) - Check JavaScript code style with [jscs](https://github.com/jscs-dev/node-jscs).
 
 [gulp-modernizr](https://github.com/doctyper/gulp-modernizr) - build out a lean, mean Modernizr machine.
 
@@ -70,6 +74,8 @@
 [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - JavaScript compressor.
 
 [gulp-concat](https://github.com/wearefractal/gulp-concat) - concatenate files.
+
+[gulp-standard](https://github.com/emgeee/gulp-standard) - Check JavaScript code style with [Standard](https://github.com/feross/standard).
 
 ###Unit Tests
 * [gulp-nodeunit](https://github.com/kjvalencik/gulp-nodeunit)
@@ -141,6 +147,18 @@
 [gulp-plumber](https://github.com/floatdrop/gulp-plumber) - prevents pipe breaking caused by errors from gulp plugins
 
 [gulp-data](https://github.com/colynb/gulp-data) - Generate a data object from a variety of sources: json, front-matter, database, anything. Compatible with many plugins including `gulp-jade` and `gulp-swig`
+
+[gulp-props](https://github.com/crissdev/gulp-props) - Convert Java `.properties` files to JSON
+
+[gulp-todo](https://github.com/pgilad/gulp-todo) - Generate a TODO.md from todos & fixmes in your code
+
+[gulp-markdown](https://github.com/sindresorhus/gulp-markdown) - Markdown to HTML with [marked](https://github.com/chjj/marked)
+
+[gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages) - Publish contents to [Github pages](https://pages.github.com/)
+
+[gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load any gulp plugins in your package.json
+
+[gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) - Source map support
 
 ##Compilers
 * [gulp-less](https://github.com/plus3network/gulp-less) - LESS in CSS.
